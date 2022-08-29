@@ -113,8 +113,10 @@ cin >> busca;
 for (int n= 0; n <2; n++){
 	if (busca == lista[n]){
 		cout << "foi encontrado" << endl;
+	}
+	else{
+		cout << "Não foi encontrado" << endl;
+	}
 }
 }
 } 
-
-}
