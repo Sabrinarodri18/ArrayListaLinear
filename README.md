@@ -1,2 +1,2 @@
 Sabrina rodrigues sampaio da luz 
-sabrina.luz@fatec.sp.gov.br
+Email institucional:sabrina.luz@fatec.sp.gov.br
